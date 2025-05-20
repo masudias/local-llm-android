@@ -1,0 +1,7 @@
+Generate a concise, conversational message (1–3 sentences) for the contact based on:
+1. user instruction:
+%s
+2. and the recent chat history:
+%s
+
+while maintaining the tone and style of the previous conversation.

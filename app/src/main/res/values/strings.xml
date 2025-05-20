@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">JaM Chat</string>
+    <string name="action_close">Close</string>
+    <string name="loading_model">Loading model</string>
+    <string name="chat_label">Message</string>
+    <string name="action_send">Send</string>
+    <string name="user_label">User</string>
+    <string name="model_label">JaM</string>
+    <string name="thinking_label">Thinking…</string>
+    <string name="generating_response_label">Generating response…</string>
+    <string name="disclaimer">no internet, full privacy</string>
+    <string name="tokens_remaining">tokens remaining</string>
+    <string name="context_full_message">Context full. Start a new chat.</string>
+</resources>

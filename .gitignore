@@ -1,0 +1,65 @@
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Signing keys
+*.jks
+*.keystore
+
+# Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+*.bak
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# NDK
+obj/
+.externalNativeBuild/
+.cxx/
+
+# Asset binaries and test models (ignore if not needed in version control)
+app/src/main/assets/*.gguf.gz
+app/src/main/assets/test_prompt.txt
+app/src/main/assets/prompt.txt
+
+# IntelliJ
+out/
+
+# Test results
+test-output/
+androidTest-results/
+
+# CMake/Ninja
+CMakeFiles/
+CMakeCache.txt
+cmake-build-*/
+
+# Cache
+.cache/
+.kts-cache/
+
+# Dependency cache
+.gradle/a
+.idea/libraries/
+
+# Misc
+*.apk
+*.ap_
+*.dex
+*.class
+
+# VS Code
+.vscode/

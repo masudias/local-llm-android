@@ -1,0 +1,14 @@
+# Example local.properties file for bundled model configuration
+
+# Standard Android SDK location (will be different on your machine)
+sdk.dir=/path/to/your/Android/sdk
+
+# Optional Hugging Face access token (only needed if selecting models that require auth)
+HF_ACCESS_TOKEN=your_huggingface_token_here
+
+# Bundled model configuration
+USE_LOCAL_MODEL=true
+BUNDLED_MODEL_ASSET_NAME=bundled_model.task
+
+# Note: You need to place the model file named "bundled_model.task" 
+# in the app/src/main/assets/ directory for this configuration to work

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary orange colors -->
+    <color name="primary">#FFFFA500</color>
+    <color name="primary_light">#FFFFD180</color>
+    <color name="primary_dark">#FFE69100</color>
+
+    <!-- Secondary (bot message) colors -->
+    <color name="secondary">#FFFFE4B5</color>
+    <color name="secondary_light">#FFFFF0E0</color>
+    <color name="secondary_dark">#FFE6CC99</color>
+
+    <!-- Tertiary (user message) colors -->
+    <color name="tertiary">#FF8B4513</color>
+    <color name="tertiary_light">#FFA0522D</color>
+    <color name="tertiary_dark">#FF6B3811</color>
+
+    <!-- Background colors -->
+    <color name="background">#FFFFF8DC</color>
+    <color name="surface">#FFFFE4C4</color>
+    
+    <!-- Base colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

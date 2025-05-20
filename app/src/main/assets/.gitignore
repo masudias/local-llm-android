@@ -1,0 +1,7 @@
+# Ignore LLM model files (they are large and will be downloaded during build)
+Qwen2.5-1.5B-Instruct_multi-prefill-seq_q8_ekv1280.task
+Phi-4-mini-instruct_multi-prefill-seq_q8_ekv1280.task
+TinyLlama-1.1B-Chat-v1.0_multi-prefill-seq_q8_ekv1280.task
+
+# Ignore TFLite model files (they are downloaded during build)
+*.tflite

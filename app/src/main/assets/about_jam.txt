@@ -1,0 +1,65 @@
+# Welcome to JaM - Your Private Document & Messaging Assistant
+
+## What is JaM?
+JaM is a completely offline AI assistant that helps you understand your documents and manage communications. It runs entirely on your device, ensuring your data stays private.
+
+## Privacy & Security:
+- No internet connection required or used
+- All processing happens locally on your device
+- Your documents and messages never leave your device
+- No data collection or tracking
+- End-to-end encryption for all data processing
+
+## How to Use JaM:
+
+### Document Assistant:
+1. Upload Documents:
+   - Tap the "Add documents" button
+   - Select PDF or TXT files from your device
+   - You can add or remove documents anytime
+
+2. Chat with JaM about Documents:
+   - Ask questions about your uploaded documents
+   - Get summaries and specific information
+   - Find relevant content across documents
+
+### SMS Message Assistant:
+1. Enable SMS Access:
+   - Select "SMS Assistant" from the menu
+   - Grant JaM permission to access your contacts
+   - Choose which contact conversations to analyze
+   
+2. Generate SMS Responses:
+   - JaM analyzes your conversation history with the selected contact
+   - Ask JaM to draft a reply based on previous messages
+   - Review, edit, and send the generated message directly
+
+3. Privacy Controls:
+   - Messages are processed entirely on-device using a local language model
+   - No message content is ever uploaded or stored externally
+   - Easily revoke permissions at any time
+
+## Sample Document Questions:
+- "What is this document about?"
+- "Can you summarize the main points?"
+- "What are the key findings in section X?"
+- "Find information about [specific topic] in the documents"
+- "What should I remember from this document?"
+- "Show me relevant parts about [topic]"
+
+## Sample SMS Assistant Commands:
+- "Draft a reply to John based on our conversation"
+- "Generate a response to the last message from Sarah"
+- "Write a friendly message to Mom continuing our discussion about dinner plans"
+- "Create a professional response to my boss about the project update"
+- "Help me reply to Alex's question about the weekend plans"
+
+## Important Notes:
+- JaM only accesses documents and contacts you explicitly grant permission for
+- For document queries, make sure your questions relate to the uploaded content
+- For SMS assistance, JaM can only access conversations from contacts you select
+- JaM will politely decline to answer questions outside the scope of your approved data
+- You can always ask "What information do you have access to?" to understand what's available
+
+## Remember:
+JaM is designed for secure, private assistance with your documents and messages. Your privacy is our priority - all processing happens locally on your device with no internet connectivity required.
