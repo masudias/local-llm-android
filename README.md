@@ -100,5 +100,7 @@ This project was initially created from the [samples here](https://github.com/go
 
 ## Demo
 
-![LLM inference demo](llm_inference.png)
-![Generate text chat demo](book_a_taxi.png)
+<p align="center">
+  <img src="llm_inference.png" width="300" alt="LLM inference demo">
+  <img src="book_a_taxi.png" width="300" alt="Generate text chat demo">
+</p>
